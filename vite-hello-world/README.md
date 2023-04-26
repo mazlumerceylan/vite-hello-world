@@ -1,7 +1,13 @@
-# Vue 3 + Vite
+-Eseguire il comando npm init vite@latest e seguire le istruzioni per creare il progetto.
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+-Eseguire il comando npm install per installare le dipendenze necessarie.
 
-## Recommended IDE Setup
+-Creare la cartella components per contenere i componenti Vue.
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+-Creare il componente AppTitle, contenente il titolo "La mia prima app con Vite!".
+
+-Creare il componente AppHero, contenente un jumbotron.
+
+-Utilizzare i componenti AppTitle e AppHero all'interno del componente principale App.
+
+-Eseguire il comando npm run dev per avviare l'applicazione.
